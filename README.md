@@ -1,4 +1,4 @@
-| Wealify |  <img src="https://wealify.com/img/logo.svg" width="100" height="17" />  
+| <img src="https://wealify.com/img/logo.svg" width="100" height="17" />  |
 | ------------- |   
 | [Api](https://github.com/thehumansourcecode/wealify-api)  | 
 | [CMS]()  | 
