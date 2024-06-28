@@ -1,13 +1,14 @@
 
 ## Repositories
 
-| <img src="https://wealify.com/img/logo.svg" width="100" height="17" />  |
-| ------------- |   
-| [Api](https://github.com/thehumansourcecode/wealify-api)  | 
-| [CMS](https://github.com/thehumansourcecode/wealify-cms)  | 
-| [Client](https://github.com/thehumansourcecode/wealify-client)  | 
-| [Landing](https://github.com/thehumansourcecode/wealify-landing-page)  | 
-| [Payment Service](https://github.com/thehumansourcecode/wealify-payment-service)  | 
+| <img src="https://wealify.com/img/logo.svg" width="100" height="17" />  | Dev | Staging | Prod
+| ------------- | ------------- |   ------------- |    ------------- |  
+| [Api](https://github.com/thehumansourcecode/wealify-api)  |  [here](https://dev-api.wealify.com/)  |  [here](https://staging-api.wealify.com/)  |  [here](https://api.wealify.com/)  | 
+| [CMS](https://github.com/thehumansourcecode/wealify-cms)  | [here](https://dev-admin.wealify.com/)  |  [here](https://staging-admin.wealify.com/)  |  [here](https://admin.wealify.com/)  | 
+| [Client](https://github.com/thehumansourcecode/wealify-client)  |  [here](https://dev-app.wealify.com/)  |  [here](https://staging-app.wealify.com/)  |  [here](https://app.wealify.com/)  | 
+| [Landing](https://github.com/thehumansourcecode/wealify-landing-page)  |  |  |  [here](https://wealify.com/)  | 
+| [Payment Service](https://github.com/thehumansourcecode/wealify-payment-service)  | [here](https://staging-batch-api.wealify.com/)  |  [here](https://staging-batch-api.wealify.com/)  |  [here](https://payment.wealify.com/)  | 
+
 
 
 |  <img src="https://app.thehuman.express/img/home_logo.d31561d8.svg" width="100" height="17" /> | 
