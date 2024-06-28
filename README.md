@@ -1,4 +1,4 @@
-| Wealify |  <img src="https://wealify.com/img/logo-1.svg" width="100" height="17" />  
+| Wealify |  <img src="https://wealify.com/img/logo.svg" width="100" height="17" />  
 | ------------- |   
 | [Api](https://github.com/thehumansourcecode/wealify-api)  | 
 | [CMS]()  | 
@@ -7,8 +7,8 @@
 | [Payment Service](https://github.com/thehumansourcecode/wealify-payment-service)  | 
 
 
-| TheHuman Express| | <img src="https://app.thehuman.express/img/home_logo.d31561d8.svg" width="100" height="17" /> |
-| ------------- | | ------------- |
+|  <img src="https://app.thehuman.express/img/home_logo.d31561d8.svg" width="100" height="17" /> | 
+| ------------- | 
 | [Api](https://github.com/thehumansourcecode/logistic-api)  |
 | [CMS](https://github.com/thehumansourcecode/logistic-cms)  |
 | [Client](https://github.com/thehumansourcecode/logistic-customer)  |
