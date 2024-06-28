@@ -4,7 +4,7 @@
 | <img src="https://wealify.com/img/logo.svg" width="100" height="17" />  |
 | ------------- |   
 | [Api](https://github.com/thehumansourcecode/wealify-api)  | 
-| [CMS]()  | 
+| [CMS](https://github.com/thehumansourcecode/wealify-cms)  | 
 | [Client](https://github.com/thehumansourcecode/wealify-client)  | 
 | [Landing](https://github.com/thehumansourcecode/wealify-landing-page)  | 
 | [Payment Service](https://github.com/thehumansourcecode/wealify-payment-service)  | 
