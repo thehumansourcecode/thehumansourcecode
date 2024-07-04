@@ -11,9 +11,9 @@
 
 
 
-|  <img src="https://app.thehuman.express/img/home_logo.d31561d8.svg" width="100" height="17" /> | 
-| ------------- | 
-| [Api](https://github.com/thehumansourcecode/logistic-api)  |
+|  <img src="https://app.thehuman.express/img/home_logo.d31561d8.svg" width="100" height="17" /> |  Dev | Prod
+| ------------- | ------------- |   ------------- |    
+| [Api](https://github.com/thehumansourcecode/logistic-api)  | [here](https://ship-dev.humanbay.express/)  |  [here](https://app.thehuman.express/)  |
 | [CMS](https://github.com/thehumansourcecode/logistic-cms)  |
 | [Client](https://github.com/thehumansourcecode/logistic-customer)  |
 | [Landing](https://github.com/thehumansourcecode/logistic-landing-page)  |
