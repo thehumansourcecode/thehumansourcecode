@@ -1,7 +1,7 @@
 
 ## Repositories
 
-| <img src="./logistic-logo.svg" width="100" height="17" />  | Dev | Staging | Prod
+| <img src="./wealify-logo.svg" width="100" height="17" />  | Dev | Staging | Prod
 | ------------- | ------------- |   ------------- |    ------------- |  
 | [Api](https://github.com/thehumansourcecode/wealify-api)  |  [here](https://dev-api.wealify.com/)  |  [here](https://staging-api.wealify.com/)  |  [here](https://api.wealify.com/)  | 
 | [CMS](https://github.com/thehumansourcecode/wealify-cms)  | [here](https://dev-admin.wealify.com/)  |  [here](https://staging-admin.wealify.com/)  |  [here](https://admin.wealify.com/)  | 
@@ -12,7 +12,7 @@
 
 
 
-|  <img src="https://app.thehuman.express/img/home_logo.d31561d8.svg" width="100" height="17" /> |  Dev | Prod
+|  <img src="logistic-logo.svg" width="100" height="17" /> |  Dev | Prod
 | ------------- | ------------- |   ------------- |    
 | [Api](https://github.com/thehumansourcecode/logistic-api)  | [here](https://api-dev.humanbay.express/)  |  [here](https://api.thehuman.express/)  |
 | [CMS](https://github.com/thehumansourcecode/logistic-cms)  |
