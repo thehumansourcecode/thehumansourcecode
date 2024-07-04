@@ -1,7 +1,7 @@
 
 ## Repositories
 
-| <img src="https://wealify.com/img/logo.svg" width="100" height="17" />  | Dev | Staging | Prod
+| <img src="./logistic-logo.svg" width="100" height="17" />  | Dev | Staging | Prod
 | ------------- | ------------- |   ------------- |    ------------- |  
 | [Api](https://github.com/thehumansourcecode/wealify-api)  |  [here](https://dev-api.wealify.com/)  |  [here](https://staging-api.wealify.com/)  |  [here](https://api.wealify.com/)  | 
 | [CMS](https://github.com/thehumansourcecode/wealify-cms)  | [here](https://dev-admin.wealify.com/)  |  [here](https://staging-admin.wealify.com/)  |  [here](https://admin.wealify.com/)  | 
