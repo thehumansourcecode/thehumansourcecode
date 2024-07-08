@@ -9,7 +9,7 @@
 | [Client](https://github.com/thehumansourcecode/wealify-client)  |  [here](https://dev-app.wealify.com/)  |  [here](https://staging-app.wealify.com/)  |  [here](https://app.wealify.com/)  | 
 | [Landing](https://github.com/thehumansourcecode/wealify-landing-page)  |  |  |  [here](https://wealify.com/)  | 
 | [Payment Service](https://github.com/thehumansourcecode/wealify-payment-service)  | [here](https://staging-batch-api.wealify.com/)  |  [here](https://staging-batch-api.wealify.com/)  |  [here](https://payment.wealify.com/)  | 
-
+| [Notify Service](https://github.com/thehumansourcecode/wealify-notify-service)  | 
 
 
 |  <img src="logistic-logo.svg" width="100" height="17" /> |  Dev | Prod
