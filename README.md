@@ -3,7 +3,7 @@
 
 | <img src="./wealify-logo.svg" width="100" height="17" />  | Dev | Staging | Prod
 | ------------- | ------------- |   ------------- |    ------------- |  
-| [Api](https://github.com/thehumansourcecode/wealify-api)  |  [*](https://dev-api.wealify.com/)  |  [here](https://staging-api.wealify.com/)  |  [here](https://api.wealify.com/)  | 
+| [Api](https://github.com/thehumansourcecode/wealify-api)  |  [here](https://dev-api.wealify.com/)  |  [here](https://staging-api.wealify.com/)  |  [here](https://api.wealify.com/)  | 
 | [CMS](https://github.com/thehumansourcecode/wealify-cms)  | [here](https://dev-admin.wealify.com/)  |  [here](https://staging-admin.wealify.com/)  |  [here](https://admin.wealify.com/)  | 
 | [CMS v2](https://github.com/thehumansourcecode/wealify-cms-v2)  |
 | [Client](https://github.com/thehumansourcecode/wealify-client)  |  [here](https://dev-app.wealify.com/)  |  [here](https://staging-app.wealify.com/)  |  [here](https://app.wealify.com/)  | 
