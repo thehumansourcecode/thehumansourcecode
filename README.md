@@ -19,6 +19,7 @@
 | [Client](https://github.com/thehumansourcecode/logistic-customer)  | [here](https://ship-dev.humanbay.express/)  |  [here](https://app.thehuman.express/)  |
 | [Landing](https://github.com/thehumansourcecode/logistic-landing-page)  |
 | [Swagger](https://github.com/thehumansourcecode/logistic-swagger)  |
+| [Helm](https://github.com/thehumansourcecode/helm)  |
 
 ## Support
 💬 Ask we about anything [here](https://thehumaninc.com/)
