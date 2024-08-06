@@ -5,7 +5,6 @@
 | ------------- | ------------- |   ------------- |    ------------- |  
 | [Api](https://github.com/thehumansourcecode/wealify-api)  |  [here](https://dev-api.wealify.com/)  |  [here](https://staging-api.wealify.com/)  |  [here](https://api.wealify.com/)  | 
 | [CMS](https://github.com/thehumansourcecode/wealify-cms)  | [here](https://dev-admin.wealify.com/)  |  [here](https://staging-admin.wealify.com/)  |  [here](https://admin.wealify.com/)  | 
-| [CMS v2](https://github.com/thehumansourcecode/wealify-cms-v2)  |
 | [Client](https://github.com/thehumansourcecode/wealify-client)  |  [here](https://dev-app.wealify.com/)  |  [here](https://staging-app.wealify.com/)  |  [here](https://app.wealify.com/)  | 
 | [Landing](https://github.com/thehumansourcecode/wealify-landing-page)  |  |  |  [here](https://wealify.com/)  | 
 | [Payment Service](https://github.com/thehumansourcecode/wealify-payment-service)  | [here](https://staging-batch-api.wealify.com/)  |  [here](https://staging-batch-api.wealify.com/)  |  [here](https://payment.wealify.com/)  | 
