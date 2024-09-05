@@ -16,6 +16,7 @@
 | [Api](https://github.com/thehumansourcecode/logistic-api)  | [here](https://api-dev.humanbay.express/)  |  [here](https://api.thehuman.express/)  |
 | [CMS](https://github.com/thehumansourcecode/logistic-cms)  |
 | [Client](https://github.com/thehumansourcecode/logistic-customer)  | [here](https://ship-dev.humanbay.express/)  |  [here](https://app.thehuman.express/)  |
+| [Client V2](https://github.com/thehumansourcecode/logistic-customer-v2)  | 
 | [Landing](https://github.com/thehumansourcecode/logistic-landing-page)  |
 | [Swagger](https://github.com/thehumansourcecode/logistic-swagger)  |
 | [Helm](https://github.com/thehumansourcecode/helm)  |
