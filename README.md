@@ -9,7 +9,7 @@
 | [Landing](https://github.com/thehumansourcecode/wealify-landing-page)  |  |  |  [here](https://wealify.com/)  | 
 | [Landing VA](https://github.com/thehumansourcecode/wealify-landing-page-va)  |
 | [Payment Service](https://github.com/thehumansourcecode/wealify-payment-service)  | [here](https://staging-batch-api.wealify.com/)  |  [here](https://staging-batch-api.wealify.com/)  |  [here](https://payment.wealify.com/)  | 
-
+| [Payment Service](https://github.com/thehumansourcecode/wealify-bulk-service)  | 
 <br></br>
 
 |  <img src="logistic-logo.svg" width="100" height="17" /> |  Dev | Prod
