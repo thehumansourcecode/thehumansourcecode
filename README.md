@@ -11,6 +11,7 @@
 | [Payment Service](https://github.com/thehumansourcecode/wealify-payment-service)  | [here](https://staging-batch-api.wealify.com/)  |  [here](https://staging-batch-api.wealify.com/)  |  [here](https://payment.wealify.com/)  | 
 
 
+
 |  <img src="logistic-logo.svg" width="100" height="17" /> |  Dev | Prod
 | ------------- | ------------- |   ------------- |    
 | [Api](https://github.com/thehumansourcecode/logistic-api)  | [here](https://api-dev.humanbay.express/)  |  [here](https://api.thehuman.express/)  |
