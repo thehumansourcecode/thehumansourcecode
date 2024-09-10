@@ -24,5 +24,11 @@
 | [Swagger](https://github.com/thehumansourcecode/logistic-swagger)  |
 | [Helm](https://github.com/thehumansourcecode/helm)  |
 
+
+|  <img src="logistic-logo.svg" width="100" height="17" /> Headless CMS |  Dev | Prod
+| ------------- | ------------- |   ------------- |    
+| [Repo](https://github.com/thehumansourcecode/headless-cms)  |
+
+
 ## Support
 💬 Ask we about anything [here](https://thehumaninc.com/)
