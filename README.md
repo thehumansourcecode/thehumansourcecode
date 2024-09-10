@@ -26,9 +26,9 @@
 
 <br></br>
 
-|  <img src="thehuman-logo.jpeg" width="30" height="30" />   Headless CMS |  Dev | Prod
+|  <img src="thehuman-logo.jpeg" width="30" height="30" />   TheHuman |  Dev | Prod
 | ------------- | ------------- |   ------------- |    
-| [Repo](https://github.com/thehumansourcecode/headless-cms)  |
+| [Headless CMS](https://github.com/thehumansourcecode/headless-cms)  |
 
 
 ## Support
