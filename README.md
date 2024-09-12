@@ -29,7 +29,7 @@
 |  <img src="thehuman-logo.jpeg" width="30" height="30" />   TheHuman |  Dev | Prod
 | ------------- | ------------- |   ------------- |    
 | [Wealify Headless CMS](https://github.com/thehumansourcecode/wealify-headless-cms)  |
-
+| [THE Headless CMS](https://github.com/thehumansourcecode/logistic-headless-cms)  |
 
 ## Support
 💬 Ask we about anything [here](https://thehumaninc.com/)
