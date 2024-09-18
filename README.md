@@ -7,7 +7,6 @@
 | [CMS](https://github.com/thehumansourcecode/wealify-cms)  | [here](https://dev-admin.wealify.com/)  |  [here](https://staging-admin.wealify.com/)  |  [here](https://admin.wealify.com/)  | 
 | [Client](https://github.com/thehumansourcecode/wealify-client)  |  [here](https://dev-app.wealify.com/)  |  [here](https://staging-app.wealify.com/)  |  [here](https://app.wealify.com/)  | 
 | [Landing](https://github.com/thehumansourcecode/wealify-landing-page)  |  |  |  [here](https://wealify.com/)  | 
-| [Landing VA](https://github.com/thehumansourcecode/wealify-landing-page-va)  |
 | [Payment Service](https://github.com/thehumansourcecode/wealify-payment-service)  | [here](https://staging-batch-api.wealify.com/)  |  [here](https://staging-batch-api.wealify.com/)  |  [here](https://payment.wealify.com/)  | 
 | [Bulk Service](https://github.com/thehumansourcecode/wealify-bulk-service)  | 
 
